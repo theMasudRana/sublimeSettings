@@ -35,6 +35,7 @@ Key Bindings
 	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
 	{ "keys": ["ctrl+u"], "command": "upper_case" },
 	{ "keys": ["ctrl+l"], "command": "lower_case" },
+	{ "keys": ["ctrl+alt+s"], "command": "save_all" },
 	{
 		"keys": ["alt+shift+1"],
 		"command": "set_layout",
