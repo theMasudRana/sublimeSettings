@@ -29,7 +29,7 @@ Sublime text settings
 }
 ```
 
-Key Bindings
+# Key Bindings
 ```
 [
 	{ "keys": ["ctrl+b"], "command": "toggle_side_bar" },
