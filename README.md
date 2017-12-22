@@ -36,6 +36,7 @@ Sublime text settings
 	{ "keys": ["ctrl+u"], "command": "upper_case" },
 	{ "keys": ["ctrl+l"], "command": "lower_case" },
 	{ "keys": ["ctrl+alt+s"], "command": "save_all" },
+	{ "keys": ["alt+f3"], "command": "find_all_under" },
 	{
 		"keys": ["alt+shift+1"],
 		"command": "set_layout",
